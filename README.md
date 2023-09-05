@@ -1,7 +1,7 @@
 ## Hey, I'm Paulo Vareiro!👋  
   
 
-*Freelancer*
+*Frontend Engineer at [Virtual Identity](https://virtual-identity.com/)*
 </br>
 *Software Engineer Student at [Polytechnic Institute of Viana do Castelo](https://www.ipvc.pt/)*
 </br>
