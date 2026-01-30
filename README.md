@@ -1,7 +1,7 @@
 ## Hey, I'm Paulo Vareiro!👋  
   
 
-*Frontend Engineer at [\]Init\[ DCP ](https://www.init.pt/pt)*
+*Senior Frontend Engineer at [\]Init\[ DCP ](https://www.init.pt/pt)*
 </br>
 *Check out my [website](https://paulovareiro.pt)*  
   
